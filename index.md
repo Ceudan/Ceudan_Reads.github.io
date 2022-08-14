@@ -16,7 +16,7 @@ Currently I am researching the application of multiple reinforcement learning ag
 
 - 9th place University of Toronto Undergraduate's Competitive Programming Tryouts
 - 15th/83 East Central North America ICPC Regionals
-- highest test score OpenAI Official Car Racing Leaderboard
+- Highest test score OpenAI Official Car Racing Leaderboard
 - Dean's Honour List (7/8 Semesters) 
 
 ## Publications
