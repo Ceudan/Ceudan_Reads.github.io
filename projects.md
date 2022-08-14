@@ -91,3 +91,7 @@ I independently created software to match sections across databases using geospa
 Achieved an accuracy of 94% on normal road types. Accuracy is dynamic since adjustable thresholds can tradeoff quantity with quality. It was succesfully used to match sections from an Aimsun traffic simulation covering the GTHA, with HERE Technologies' observed traffic information.
 
 <!-- Skills Learned: GeoPandas, GIS, shapefiles, search algorithms, matrix/array time dependancies-->
+
+&nbsp;
+
+[Back to home](/)
