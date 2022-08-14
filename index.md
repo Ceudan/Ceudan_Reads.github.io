@@ -3,7 +3,9 @@ layout: default
 ---
 ## About Me
 
-I'm an undergraduate student at the University of Toronto pursuing a major in Civil Engineering and a minor in Artificial Intelligence Engineering. Currently, I am working part-time as a structural engineering intern while completing my last year of studies. Starting September 2022, I will be working towards a Master of Science degree in the department of Civil and Environmental Engineering at Stanford University.
+I'm an undergraduate student at the University of Toronto pursuing a major in Civil Engineering (Transportation focus) and a minor in Machine Intelligence. Currently, I am performing research at the Data Driven Decision Making Lab regarding the application of reinforcement learning to traffic perimter control.
+
+During my undergraduate studies, I've developed a love for computer science and data science in particular. Inside of school, I've developed the relevant knowledge and experience through coursework and competitions. I've taken numerous courses with high standings such as statistics, probability, data science and machine learning. Addtionally, I've trained and succesfully engaged in algorithmic programming competitions. In 2022 I scored 9th in the University of Toronto's Undergraduate's Competitive Programming tryouts, and finished [15th/83 at the East Central North America ICPC regionals](https://icpc.global/regionals/finder/East-Central-NA-2021/standings). Additionally, I've applied my reinforcement learning skills to OpenAi's official Car Racing [leaderboard](https://github.com/openai/gym/wiki/Leaderboard), scoring the highest test score and beating the environment at the 2nd lowest training cost.
 
 Since 2018, I have been conducting research with [Prof. Oya Mercan](https://civmin.utoronto.ca/home/about-us/directory/professors/oya-mercan/) on seismic hazard mitigation for large Liquefied Natural Gas (LNG) storage tanks. For my fourth-year capstone project, I am designing a ML-based predictive maintenance algorithm for HVAC systems under the supervision of [Prof. Markus Bussmann](https://www.mie.utoronto.ca/faculty_staff/bussmann/) and [Prof. Seungjae Lee](https://civmin.utoronto.ca/home/about-us/directory/professors/seungjae-lee/). I am also writing an undergraduate thesis on Automatic Drill-core Logging using Deep Learning under the supervision of [Prof. Sebastian Goodfellow](https://civmin.utoronto.ca/home/about-us/directory/professors/sebastian-goodfellow/).
 
@@ -13,9 +15,7 @@ My interests lie at the intersection of infrastructure and technology, and I hop
 
 ## Publications
 
-[1] Y. Zhao, H-N Li, X. Fu, <ins>S. Zhang</ins>, O. Mercan. "Seismic Analysis of a Large LNG Tank Considering the Effect of Liquid Volume". *Shock and Vibration* (2020). https://doi.org/10.1155/2020/8889055  
-
-[2] Y. Zhao, H-N Li, <ins>S. Zhang</ins>, O. Mercan, C. Zhang. "Seismic Analysis of a Large LNG Tank Considering Different Site Conditions." *Applied Sciences* 10(22):8121 (2020). https://doi.org/10.3390/app10228121
+First submission December 2022
 
 ## Portfolio
 
