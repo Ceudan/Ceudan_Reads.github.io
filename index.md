@@ -23,12 +23,4 @@ Currently I am researching the application of reinforcement learning agents to r
 
 First submission December 2022
 
-## Projects Link(./projects.html)
-
-
-
-<span style="font-size:18px;">[Projects](./projects.html)</span>
-
-<span style="font-size:18px;">[Travel](./travel.html)</span>
-
-<span style="font-size:18px;">[Blog](./blog.html)</span>
+## [Projects Link](./projects.html)
