@@ -10,9 +10,6 @@ I hand coded multiple reinforcement learning algorithms for the openai Car Racin
 Your browser does not support the video tag.
 </video>
 
-
-https://user-images.githubusercontent.com/78922263/177021714-fc82a6ff-e44c-4936-bf50-61a8f3a372f1.mp4
-
 My PPO project was very succesful, obtaining the highest test score and beating the environment at the 2nd lowest training cost on OpenAI's official Car Racing leaderboard [[1]](https://github.com/openai/gym/wiki/Leaderboard). (917/900 score averaged over 100 test episodes, after 925 training episodes). I used a unique method for the environment. Mainly, I seperated the steering and thrust actions to 2 independantly trained networks to simplify the learnable relationship. Additionally, I moved speed estimation to a seperate deterministic process to reduce the computer vision load on our actor/critic models. 
 
 &nbsp;
