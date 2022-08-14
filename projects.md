@@ -1,81 +1,93 @@
----
-title: 
-layout: default
-author: 
-date: 
----
+&nbsp;
+# Learning Reinforcement Learning via Car Racing
 
-# Projects
+**2022.6** &nbsp; [Full Document](https://github.com/Ceudan/Car-Racing)
 
-## Aircraft Impact Analysis
-### 2020.9 - present
+I hand coded multiple reinforcement learning algorithms for the openai Car Racing environment. Namely I applied Double Deep Q networks and Proximal Policy Optimization. The purpose of this project was to become familiar with RL libraries, algorithms and hyperparameter tuning. While exploring, I gave myself a research question. That is, can I officially beat the environment at a lower computational cost than others?
 
-![aia](./assets/img/projects/aia_cropped.png)
+https://user-images.githubusercontent.com/78922263/177021714-fc82a6ff-e44c-4936-bf50-61a8f3a372f1.mp4
 
-During my ongoing internship at [Terrestrial Energy](https://www.terrestrialenergy.com/) (full-time for 1 year and currently part-time), I helped design nuclear buildings and reactor support structures for Integral Molten Salt Reactors (IMSR). Apart from detailed structural design and seismic analysis, I also worked on the research and development of aircraft impact analysis methodologies which I presented at the  [2021 Women in Nuclear Global Conference](https://womeninnuclear.com/news-events/events/2021-women-in-nuclear-global-conference/). To speed up the analysis process, I independently developed a Python script to automate aircraft impact modelling under different scenarios which significantly reduced repetitive manual work.
+My PPO project was very succesful, obtaining the highest test score and beating the environment at the 2nd lowest training cost on OpenAI's official Car Racing leaderboard [[1]](https://github.com/openai/gym/wiki/Leaderboard). (917/900 score averaged over 100 test episodes, after 925 training episodes). I used a unique method for the environment. Mainly, I seperated the steering and thrust actions to 2 independantly trained networks to simplify the learnable relationship. Additionally, I moved speed estimation to a seperate deterministic process to reduce the computer vision load on our actor/critic models. 
 
-## Predicive Maintenance Algorithm for HVAC Systems
-### 2021.9 - 2022.4
+&nbsp;
 
-![APS490](./assets/img/projects/aps490.png)
+# Alphanumeric CAPTCHA Solver
 
-For my senior capsteone project, I am working with a multidisciplinary student team to design a predictive maintenance algorithm for HVAC and Controls Systems. We implemented an RNN-based time-series prediction model and an unsupervised anomaly detection algorithm on heating and airflow sensor data to alert operators 2 hours ahead of failure and reduce service downtime.
-[Learn More](portfolio/capstone.html)
+**2021.3** &nbsp; [Full Document](https://github.com/Ceudan/Alphanumeric-CAPTCHA-Solver)
 
-## Automatic Core Logging using Computer Vision
-### 2021.4 - present
+Led a team of 4 to independently design from scratch a multi-staged software that decodes alphanumeric CAPTCHA images. Motivation was a course final project. Input consists of 5 character CAPTCHAs disguised with noise and various levels of overlap, rotational, distance and colour distortions. Output is a 5 character prediction of the sequence.
 
-![cme499](./assets/img/projects/cme499.png)
+![Image of a CAPTCHA and the software's predicted output](images/output.png) 
 
-For my undergraduate thesis, I am collaborating with a mineral engineering startup called [Kore Geosystems](https://www.koregeosystems.com/) to develop a deep learning algorithm that extracts geotechnical and geological information such as RQD from core photographs using image segmentation.
+Stages:
+\
+&#8291;1. Preprocessing using computer vision libraries to eliminate noise.
+\
+&#8291;2. Character segmentation using object recognition to localize individual characters.
+\
+&#8291;3. Character classification using a convolutional neural network followed by several fully connected layers.
 
-## Course Search Website
-### 2021.9 - 2021.11
+Achieved mark of 90%. Achieved an accuracy of 71% per entire CAPTCHA image and 91% per individual character. These accuracies are high given that CAPTCHAs are designed not to be bypassed by computer software. 
 
-![ece444](./assets/img/projects/ece444.png)
+&nbsp;
 
-For my Software Engineering course, I worked in a team of 5 to develop a web application named [OneCourse](https://onecourse.herokuapp.com/) using Python, HTML/CSS, and JavaScript. OneCourse is a centralized platform for finding detailed course information, engaging in course-related discussions, and developing enrolment plans. The frontend is built with Flask, and actions are completed by making REST API requests to the backend​. The backend contains microservices implemented as AWS Lamda functions which are linked with DynamoDB databases for data storage. [View Video Demo](https://youtu.be/PjRcku7ttuM)
+<!-- Skills Learned: computer vision libraries, image processing, deep-learning, generating custom train data -->
 
-## Real-Time Mask Detection
-### 2021.5 - 2021.8
+# Predicting Student Question Performance
 
-![aps360](./assets/img/projects/aps360.png)
+**2021.11** &nbsp; [Full Document](https://github.com/Ceudan/Predicting-Student-Question-Performance)
 
-For my Applied Fundamentals of Machine Learning course, I developed a real-time face mask detection model using the SSD-MobileNetV2 architecture. The model automades the screening process for mask mandates by not only identifying whether a mask is worn properly, but also classifying the type of mask being worn. In a group of 4, we also implemented the detection model as an iOS application to evaluate the model’s performance in actual use cases.
+Led a team of 3 to write an ensemble machine learning model with bagging to predict a student's performance on diagnostic questions. Our ensemble combined 3 distinct algorithms. Motivation was a course project.
 
-## Bikeshare Usage Prediction
-### 2021.5 - 2021.8
+Given Data
 
-![aps360](./assets/img/projects/civ1498.png)
+![Diagram of given data](images/sparse_matrix.png)
 
-For my Data Science for Civil Engineers course, I worked with 2 other students to analyze bike-share data in Toronto from 2017 to 2020. We performed data cleaning, exploratory analysis, and modelling to predict hourly ridership demand. We then used the insights from historic data to inform the feasibility of expanding the bike-share program in the future. I summarized our process and findings in a [Medium article](https://shirleyzhang2.medium.com/toronto-bike-share-data-analysis-943d5810c717).
+Model Architecture
 
-## DesignCheck
-### 2020.6 - 2020.7
+![Image of bagging and model architecture](images/Architecture.png)
 
-![designcheck](./assets/img/projects/designcheck.png)
+Achieved mark of 97%. We ranked 18th in a coursewide competition (over 300 eligible competitors) with an accuracy of 70.3%. After fixing bugs and updating model to current version, accuracy increased to 71.3%, which would have ranked us 5th place.
 
-During my summer internship at [Arup](https://www.arup.com/), I contributed to [DesignCheck](https://www.autodesk.com/autodesk-university/class/Dynamo-Engineers-Design-All-2018), a C# platform that performs user-defined engineering calculations and creates formatted reports via dynamically generated web APIs. By building a centralized hub of calculations to iterate and control design processes, DesignCheck helps inform, improve, and accelerate project delivery. [(video demo)](https://www.youtube.com/watch?v=tQEU4uQOVuI)
+&nbsp;
 
-## Settle3
-### 2019.5 - 2019.8
+<!-- Skills Learned: pytorch, autograd, optimization, bagging, ensemble -->
 
-![settle3](./assets/img/projects/settle3.PNG)
+# Sliding Puzzle Solver
+[Virtual Game Link](https://www.proprofsgames.com/puzzle/sliding/mona-lisaq/)
 
-During my summer internship at [Rocscience](https://www.rocscience.com/), I developed <a href=".\docs\pdf\Settle3_update.pdf">ground improvement and settlement calculation features</a> for a 3D Soil Analysis Software called [Settle3](https://www.rocscience.com/software/settle3) using C++. My contributions involved literary review, backend development, user interface design, and documentation.
+There are 2 distinct stages to this puzzle. First, you must estimate the original configuration of the subpieces. Second, you must find a way to rearrange the subpieces into the original configuration while obeying the constraints of the game.
 
-## Autobuilder
-### 2019.5 - 2021.4
+### Subtask 1: Original Configuration Estimation
 
-![autobuilder](./assets/img/projects/ab.png)
+**2022.3** &nbsp; [Full Document](https://github.com/Ceudan/Sliding-Puzzle-Solver/blob/main/README.pdf)
 
-As a co-captain for the [UofT Seismic Design Team](http://seismic.skule.ca/), I worked with 3 other members to develop "Autobuilder", an in-house Python program with a Qt interface that can automatically create thousands of design iterations based on user-defined constraints. By removing repetition in manual modelling efforts and accelerating project delivery, Autobuilder helped us achieve 3rd place out of 37 international teams at the [2021 Undergraduate Seismic Design Competition](https://slc.eeri.org/2021-sdc/).
+Worked in a team of 3 leveraging Deep CNN's and advanced combinatoric algorithms for the task. This subtask is identical to that of solving square jigsaws. Pipeline consisted of pre-processing raw scenic images into the puzzle structure, fine-tuning pretrained Deep CNN's to predict the likelihood of sub-peices being conjoined, then utilising a deterministic solving algorithm to estimate most the likely configuration.
 
-## Canoe Design
-### 2018.9 - 2021.5
+![Image of configuration estimator architecture](images/Solver_Architecture.png)
 
-![lng](/assets/img/projects/panda.png)
+All Deep CNN's achieved an adjacency prediction accuracy of over 90%. Importantly, by testing various pre-trained architectures such as RESNet, RESNext and VGG we were able to deduce useful insights regarding the application of CNN's to the problem. Namely, shorter wider CNN's outperform deeper ones. This was due to the models facing significant error when comparing images lacking in large features (ex. subpieces of the sky), where localized pixel level details become critical. We hypothesiszed this may prove difficult for Deep CNN's where location and low level information is lost in its deeper layers, especially when tuning models pretrained for object recognition. 
 
-As the technical director for the [UofT Concrete Canoe Team](https://canoe.skule.ca/), I leveraged MATLAB to determine the levels of stress experienced by the canoe in a variety of static and dynamic loading cases such as construction, transport, and paddling.  I also helped develop a C++ program that optimizes hull geometry by balancing maneuverability and fluid resistance. In 2021, our team won 2nd place at the [Canadian National Concrete Canoe Competition](https://www.cscecompetitions.ca/en/home/cnccc/).    
 
-[Back to home](/)
+### Subtask 2: Tile Rearrangement
+One day I hope to have enough time to return and complete this section comparing various reinforcement learning techniques.
+
+&nbsp;
+
+# Matching Road Sections between Databases
+
+**2021.8** &nbsp; [Full Document](https://github.com/Ceudan/Match-Roads-Between-Databases)
+
+I independently created software to match sections across databases using geospatial information. This was one of the many tasks I recieved at the University of Toronto Transportation Research Institute. Hurdles included:
+- over 100,000 road sections per database (strong time complexity requirements)
+- close proximity does not gaurentee correct match
+- geographic coordinates carry up to 10 metres of uncertainty
+
+
+
+![Visualization of road sections in Database 1](images/ex1_HERE.png) ![Visualization of road sections in Database 2](images/ex1_aimsun.png) ![Visualization of road sections in Database 2](images/ex1_match_background.png) 
+
+
+Achieved an accuracy of 94% on normal road types. Accuracy is dynamic since adjustable thresholds can tradeoff quantity with quality. It was succesfully used to match sections from an Aimsun traffic simulation covering the GTHA, with HERE Technologies' observed traffic information.
+
+<!-- Skills Learned: GeoPandas, GIS, shapefiles, search algorithms, matrix/array time dependancies-->
