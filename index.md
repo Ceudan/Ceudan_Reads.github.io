@@ -25,6 +25,3 @@ First submission December 2022
 ## [Projects Link](./projects.html)
 
 &nbsp;
-
-
-&nbsp;
