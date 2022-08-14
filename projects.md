@@ -48,7 +48,7 @@ Given Data
 
 Model Architecture
 
-![Image of bagging and model architecture](images/Architecture.png)
+![Image of bagging and model architecture](images/architecture.png)
 
 Achieved mark of 97%. We ranked 18th in a coursewide competition (over 300 eligible competitors) with an accuracy of 70.3%. After fixing bugs and updating model to current version, accuracy increased to 71.3%, which would have ranked us 5th place.
 
