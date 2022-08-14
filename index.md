@@ -13,9 +13,8 @@ Outside of school, I've had research internships at Data and Transportation labs
 Currently I am researching the application of reinforcement learning agents to regulate traffic inflow to a large protected region. I would love to explore other practical applications of RL or the learning processes such as imitation learning. I am also interested in spatial-temporal data and its prediction. In Transportation industry, this is used for traffic prediction, demand prediction, navigation and map services. Most importantly, I am open to exploring new areas of Data Science.
 
 ## Awards
-
-- 9th place University of Toronto Undergraduate Competitive Programming Tryouts
 - 15th/83 East Central North America ICPC Regionals
+- 9th place University of Toronto Undergraduate Competitive Programming Tryouts
 - Highest test score OpenAI Official Car Racing Leaderboard
 - Dean's Honour List (7/8 Semesters) 
 
