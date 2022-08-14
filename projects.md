@@ -6,7 +6,7 @@
 I hand coded multiple reinforcement learning algorithms for the openai Car Racing environment. Namely I applied Double Deep Q networks and Proximal Policy Optimization. The purpose of this project was to become familiar with RL libraries, algorithms and hyperparameter tuning. While exploring, I gave myself a research question. That is, can I officially beat the environment at a lower computational cost than others?
 
 <video width="320" height="240" controls>
-  <source src="/images/PPO_double_agent.mp4" type="video/mp4">
+  <source src="images/PPO_Double_Agent.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
