@@ -13,9 +13,9 @@ Outside of school, I have over 8 months of full-time research at Data and Transp
 Currently I am researching the application of reinforcement learning agents to regulate traffic inflow to a large protected region. I would love to explore other practical applications of RL or the learning processes such as imitation learning. I am also interested in spatial-temporal data and its prediction. In Transportation industry, this is used for traffic prediction, demand prediction, navigation and map services. Most importantly, I am open to exploring new areas of Data Science.
 
 ## Awards
-- 15th/83 East Central North America ICPC Regionals
+- 15th/83 East Central North America ICPC Regionals [[Link]](https://icpc.global/regionals/finder/East-Central-NA-2021/standings)
 - 9th place University of Toronto Undergraduate Competitive Programming Tryouts
-- Highest test score OpenAI Official Car Racing Leaderboard
+- Highest test score OpenAI Official Car Racing Leaderboard [[Link]](https://github.com/openai/gym/wiki/Leaderboard)
 - Dean's Honour List (7/8 Semesters) 
 
 ## Publications
