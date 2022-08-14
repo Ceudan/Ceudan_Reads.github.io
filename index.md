@@ -24,3 +24,8 @@ Currently I am researching the application of reinforcement learning agents to r
 First submission December 2022
 
 ## [Projects Link](./projects.html)
+
+&nbsp;
+
+
+&nbsp;
