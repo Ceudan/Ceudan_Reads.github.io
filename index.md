@@ -17,6 +17,7 @@ Currently I am researching the application of reinforcement learning agents to r
 - 9th place University of Toronto Undergraduate Competitive Programming Tryouts
 - Highest test score OpenAI Official Car Racing Leaderboard [[Link]](https://github.com/openai/gym/wiki/Leaderboard)
 - Dean's Honour List (7/8 Semesters) 
+- Konrad Group Digital Innovation Scholarship ($2500)
 
 ## Publications
 
