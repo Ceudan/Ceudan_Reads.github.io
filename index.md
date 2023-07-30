@@ -12,7 +12,7 @@ Outside of school, I have experience at both industrial research labs and academ
 I would love to explore other practical applications of RL or the learning processes. I'm also broadly interested in spatial-temporal data and its prediction. In Transportation industry, this is used for traffic prediction, demand prediction, navigation and map services. Most importantly, I am open to exploring new areas of Data Science.
 
 ## Awards
-- 15th/83 East Central North America ICPC Regionals [[Link]](https://icpc.global/regionals/finder/East-Central-NA-2021/standings)
+- 15th/83 East Central North America ICPC Regionals [[Link]](https://icpc.global/regionals/finder/East-Central-NA-2022/standings)
 - 9th place University of Toronto Undergraduate Competitive Programming Tryouts
 - Highest test score OpenAI Official Car Racing Leaderboard [[Link]](https://github.com/openai/gym/wiki/Leaderboard)
 - Dean's Honour List (6/6 Semesters) 
