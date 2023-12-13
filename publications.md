@@ -1,6 +1,6 @@
 # Publications
 
-* Self-aggregating and Diverse Experts for Long-tailed Trajectory Prediction <br /> **Ray Coden Mercurius**, Ehsan Ahmadi, Amir Rasouli <br /> (in progress)
+* <font size="4"> Self-aggregating and Diverse Experts for Long-tailed Trajectory Prediction <br /> <font size="3"> **Ray Coden Mercurius**, Ehsan Ahmadi, Amir Rasouli <br /> </font> (in progress)
 
 * Curb Your Attention: Causal Attention Gating for Robust Trajectory Prediction in Autonomous Driving <br /> Ehsan Ahmadi, **Ray Coden Mercurius**, Soheil Mohamad Alizadeh Shabestary, Amir Rasouli <br /> Submitted to Computer Vision and Pattern Recognition Conference (CVPR), 2024.
 
