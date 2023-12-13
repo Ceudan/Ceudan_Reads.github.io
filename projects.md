@@ -14,27 +14,26 @@ My PPO project was very succesful, obtaining the highest test score and beating 
 
 &nbsp;
 
-# Alphanumeric CAPTCHA Solver
+# Sliding Puzzle Solver
+[Virtual Game Link](https://www.proprofsgames.com/puzzle/sliding/mona-lisaq/)
 
-**2021.3** &nbsp; [Full Document](https://github.com/Ceudan/Alphanumeric-CAPTCHA-Solver)
+There are 2 distinct stages to this puzzle. First, you must estimate the original configuration of the subpieces. Second, you must find a way to rearrange the subpieces into the original configuration while obeying the constraints of the game.
 
-Led a team of 4 to independently design from scratch a multi-staged software that decodes alphanumeric CAPTCHA images. Motivation was a course final project. Input consists of 5 character CAPTCHAs disguised with noise and various levels of overlap, rotational, distance and colour distortions. Output is a 5 character prediction of the sequence.
+### Subtask 1: Original Configuration Estimation
 
-![Image of a CAPTCHA and the software's predicted output](images/output.png) 
+**2022.3** &nbsp; [Full Document](https://github.com/Ceudan/Sliding-Puzzle-Solver/blob/main/README.pdf)
 
-Stages:
-\
-&#8291;1. Preprocessing using computer vision libraries to eliminate noise.
-\
-&#8291;2. Character segmentation using object recognition to localize individual characters.
-\
-&#8291;3. Character classification using a convolutional neural network followed by several fully connected layers.
+Worked in a team of 3 leveraging Deep CNN's and advanced combinatoric algorithms for the task. This subtask is identical to that of solving square jigsaws. Pipeline consisted of pre-processing raw scenic images into the puzzle structure, fine-tuning pretrained Deep CNN's to predict the likelihood of sub-peices being conjoined, then utilising a deterministic solving algorithm to estimate most the likely configuration.
 
-Achieved mark of 90%. Achieved an accuracy of 71% per entire CAPTCHA image and 91% per individual character. These accuracies are high given that CAPTCHAs are designed not to be bypassed by computer software. 
+![Image of configuration estimator architecture](images/Solver_Architecture.png)
+
+All Deep CNN's achieved an adjacency prediction accuracy of over 90%. Importantly, by testing various pre-trained architectures such as RESNet, RESNext and VGG we were able to deduce useful insights regarding the application of CNN's to the problem. Namely, shorter wider CNN's outperform deeper ones. This was due to the models facing significant error when comparing images lacking in large features (ex. subpieces of the sky), where localized pixel level details become critical. We hypothesiszed this may prove difficult for Deep CNN's where location and low level information is lost in its deeper layers, especially when tuning models pretrained for object recognition. 
+
+
+### Subtask 2: Tile Rearrangement
+One day I hope to have enough time to return and complete this section comparing various reinforcement learning techniques.
 
 &nbsp;
-
-<!-- Skills Learned: computer vision libraries, image processing, deep-learning, generating custom train data -->
 
 # Predicting Student Question Performance
 
@@ -56,26 +55,7 @@ Achieved mark of 97%. We ranked 18th in a coursewide competition (over 300 eligi
 
 <!-- Skills Learned: pytorch, autograd, optimization, bagging, ensemble -->
 
-# Sliding Puzzle Solver
-[Virtual Game Link](https://www.proprofsgames.com/puzzle/sliding/mona-lisaq/)
 
-There are 2 distinct stages to this puzzle. First, you must estimate the original configuration of the subpieces. Second, you must find a way to rearrange the subpieces into the original configuration while obeying the constraints of the game.
-
-### Subtask 1: Original Configuration Estimation
-
-**2022.3** &nbsp; [Full Document](https://github.com/Ceudan/Sliding-Puzzle-Solver/blob/main/README.pdf)
-
-Worked in a team of 3 leveraging Deep CNN's and advanced combinatoric algorithms for the task. This subtask is identical to that of solving square jigsaws. Pipeline consisted of pre-processing raw scenic images into the puzzle structure, fine-tuning pretrained Deep CNN's to predict the likelihood of sub-peices being conjoined, then utilising a deterministic solving algorithm to estimate most the likely configuration.
-
-![Image of configuration estimator architecture](images/Solver_Architecture.png)
-
-All Deep CNN's achieved an adjacency prediction accuracy of over 90%. Importantly, by testing various pre-trained architectures such as RESNet, RESNext and VGG we were able to deduce useful insights regarding the application of CNN's to the problem. Namely, shorter wider CNN's outperform deeper ones. This was due to the models facing significant error when comparing images lacking in large features (ex. subpieces of the sky), where localized pixel level details become critical. We hypothesiszed this may prove difficult for Deep CNN's where location and low level information is lost in its deeper layers, especially when tuning models pretrained for object recognition. 
-
-
-### Subtask 2: Tile Rearrangement
-One day I hope to have enough time to return and complete this section comparing various reinforcement learning techniques.
-
-&nbsp;
 
 # Matching Road Sections between Databases
 
