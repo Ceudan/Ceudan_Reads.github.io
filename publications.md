@@ -16,3 +16,7 @@ Autonomous Driving</font>
 * <font size="4">Perimeter Control Using Deep Reinforcement Learning: A Model-free Approach towards Homogeneous Flow Rate Optimization</font>
 <br /> Xiaocan Li, **Ray Coden Mercurius**, Ayal Taitler Xiaoyu Wang, Mohammad Noaeen, Scott Sanner, Baher Abdulhai
 <br /> Accepted at International Conference on Intelligent Transportation Systems (ITSC), 2023.
+
+&nbsp;
+
+[Back to home](/)
