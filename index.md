@@ -20,9 +20,7 @@ I am interested in the modelling, prediction, and planning of spatial-temporal s
 - Dean's Honour List (6/6 Semesters) 
 - Konrad Group Digital Innovation Scholarship ($2500)
 
-## Publications
-
-Submitted May 2023
+## [Publications Link](./publications.html)
 
 ## [Projects Link](./projects.html)
 
