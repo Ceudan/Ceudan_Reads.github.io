@@ -5,7 +5,7 @@ and the relationships and wars between individuals and groups. The book is uniqu
 the calls of hunters and animals, or songs sang by the dying.
 
 What I liked about this book is the portrayal of an ancient lifestyle so different, but also more interesting than our own monotonic and relatively safe lives. We purchase food while they catch it, we work jobs while they are nomadic, 
-we depend on the state for safety while for them every male is a warrior. I recommend it to anyone. 
+we depend on the state for safety while for them every man is a warrior. I recommend it to anyone. 
 
 &nbsp;
 
