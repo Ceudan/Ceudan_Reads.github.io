@@ -7,7 +7,13 @@ the calls of hunters and animals, or songs sang by the dying.
 What I liked about this book is the portrayal of an ancient lifestyle so different, but also more interesting than our own monotonic and relatively safe lives. We purchase food while they catch it, we work jobs while they are nomadic, 
 we depend on the state for safety while for them every male is a warrior. I recommend it to anyone. 
 
-![Image of Yanoama Book Front Cover](images/Yanoama.png)
+&nbsp;
+
+<p align="center">
+  <img src="images/Yanoama.png" />
+</p>
+
+&nbsp;
 
 After this book I further pursued the topic by buying more biographies of similar taste. I also read countless articles on hunter-gatherer anthropology, human migrations, and their effects on human genetic evolution.
 
