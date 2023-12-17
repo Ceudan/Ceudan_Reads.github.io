@@ -6,7 +6,7 @@ Fusiwe, who was so stoic he did not even let out a shout of pain when he was kil
 and Ishi, a knowledgeable hunter who could harvest anything from a from a squirrel to a grizzly bear, any young boy would want to become an archer himself.  
 
 
-As a teenager, I introduced myself to archery by manually constructing the bows and arrows myself, and practicing shooting with my custom-made equipment.
+As a teenager, I introduced myself to archery by manually constructing the bows and arrows myself, and practiced shooting with my custom-made equipment.
 Crafting bows and arrows was a peaceful and relaxing experience. 
 
 &nbsp;
