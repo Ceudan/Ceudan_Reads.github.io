@@ -24,4 +24,9 @@ After this book I further pursued the topic by buying more biographies of simila
 
 &nbsp;
 
-At one point I tried to democratize my knowledge in these topics by sharing it on my [Quora Account](https://www.quora.com/profile/Ray-Coden-Mercurius). Unfortunately I did not recieve much attention, so I quit Quora 😂. 
+At one point I tried to democratize my knowledge in these topics by sharing it on my [Quora Account](https://www.quora.com/profile/Ray-Coden-Mercurius). Unfortunately I did not recieve much attention, so I quit Quora 😂.
+
+
+&nbsp;
+
+[Back to home](/)
