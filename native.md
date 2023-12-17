@@ -29,4 +29,4 @@ At one point I tried to democratize my knowledge in these topics by sharing it o
 
 &nbsp;
 
-[Back to home](/)
+[Back to home](https://ceudan.github.io/Ceudan_Reads.github.io/)
