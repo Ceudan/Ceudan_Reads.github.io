@@ -50,9 +50,7 @@ Arrows:
 I also enjoyed learning about primitive hunting. In my teenage years I successfully stalk and struck animals such as small birds, ducks and even salmon (amazing memories). Fortunately, most animals were not seriously hurt. The bow was too weak, arrows dulled too easily, and the flight mechanics were off. Now that I’m older, I think this may have been illegal (laughing).
 
 
-  
-
 
 &nbsp;
 
-
+[Back to home](https://ceudan.github.io/Ceudan_Reads.github.io/)
