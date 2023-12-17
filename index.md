@@ -10,7 +10,6 @@ I am an engineering student so I don’t have time for anything outside of schoo
 
 ## [TBC](./non_existant.html)
 
-&nbsp;
 
 &nbsp;
 
