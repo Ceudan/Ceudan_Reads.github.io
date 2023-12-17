@@ -1,5 +1,5 @@
 ## Archery
-If you suspect that my interest in archery is related to my interest in [Native American Anthropology](link), you are correct. 
+If you suspect that my interest in archery is related to my interest in [Native American Anthropology](link), you are correct 😂. 
 After I reading many stories and biographies of Amerindian archers, I became interested in Archery. And how could I not? 
 After reading accounts of people such as Moawa, who was so skillful he took down over 20 enemies with the bow, 
 Fusiwe, who was so stoic he did not even let out a shout of pain when he was killed with arrows, 
@@ -47,7 +47,7 @@ Arrows:
 
 &nbsp;
 
-I also enjoyed learning about primitive hunting. In my teenage years I successfully stalk and struck animals such as small birds, ducks and even salmon (amazing memories). Fortunately, most animals were not seriously hurt. The bow was too weak, arrows dulled too easily, and the flight mechanics were off. Now that I’m older, I think this may have been illegal (laughing).
+I also enjoyed learning about primitive hunting. In my teenage years I successfully stalk and struck animals such as small birds, ducks and even salmon (amazing memories). Fortunately, most animals were not seriously hurt. The bow was too weak, arrows dulled too easily, and the flight mechanics were off. Now that I’m older, I think this may have been illegal 😂.
 
 
 
