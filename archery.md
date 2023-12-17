@@ -22,7 +22,7 @@ For the curious, here is a brief summary of how I made them.
 Bow:
 
 1.	Wood: I harvested the log from live hardwood trees in nearby forests. The sections were chosen to be as straight as possible, and free of knots or branches.
-2.	Shape: I shave the log into a bow with an axe. The shape is designed to make the bow as light as possible, but still be able to pull my draw weight at my draw length. According to my crude teenage math, this meant that the ends should taper, and pull strength should be maintained by keeping wood in the direction parallel to the axis of rotation/torque (keep bow thick), rather than perpendicular (keep bow wide). 
+2.	Shape: I shave the log into a bow with an axe. The shape is designed to make the bow as light as possible, but still be able to pull my draw weight at my draw length. According to my crude teenage math, this meant that the ends should taper, and pull strength should be maintained by keeping wood in the direction perpendicular to the axis of rotation/torque (keep bow thick), rather than parralel (keep bow wide). 
 3.	Recurve: The highest performing bows are recurved, because they store more energy given the same draw weight and draw distance ([explanation](http://www.tap46home.plus.com/mechanics/dforce.htm)). I recurved some of my bows by bending the ends under hot steam, and letting them cool and solidify in the new shape. 
 
 
