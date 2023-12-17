@@ -10,16 +10,13 @@ As a teenager, I introduced myself to archery by manually constructing the bows 
 Crafting bows and arrows was a peaceful and relaxing experience. 
 
 &nbsp;
-
 <figure>
     <p align="center">
     <img src="images/bow_arrows.png" width="400" />
     <figcaption>One of the bows and arrows I made. I should have taken more photos of the process.</figcaption>
     </p>
 </figure>
-
 &nbsp;
-
 For the curious, here is a brief summary of how I made them.
 
 Bow:
@@ -45,7 +42,6 @@ Arrows:
     </p>
 </figure>
 
-&nbsp;
 
 I also enjoyed learning about primitive hunting. In my teenage years I successfully stalk and struck animals such as small birds, ducks and even salmon (amazing memories). Fortunately, most animals were not seriously hurt. The bow was too weak, arrows dulled too easily, and the flight mechanics were off. Now that I’m older, I think this may have been illegal 😂.
 
