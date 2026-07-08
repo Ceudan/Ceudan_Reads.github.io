@@ -6,7 +6,7 @@ I am an engineering student so I don’t have time for anything outside of schoo
 
 ## [Native American Anthropology](./native.html)
 
-## [Archery](./archery.html)
+## [Archery](./archery234.html)
 
 ## [TBC](./non_existant.html)
 
