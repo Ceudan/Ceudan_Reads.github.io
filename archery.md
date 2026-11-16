@@ -1,13 +1,11 @@
 ## Archery
-If you suspect that my interest in archery is related to my interest in [Native American Anthropology](https://ceudan.github.io/Ceudan_Reads.github.io/native.html), you are correct 😂. 
-After I reading many stories and biographies of Amerindian archers, I became interested in Archery. And how could I not? 
-After reading accounts of people such as Moawa, who was so skillful he took down over 20 enemies with the bow, 
+After reading the stories of archers in my [small scale society book collectoin](https://ceudan.github.io/Ceudan_Reads.github.io/small_scale_society.html), I became interested in Archery. And how could I not? 
+Any teenager would be amazed by accounts of people such as Moawa, who was so skillful he took down over 20 enemies with the bow, 
 Fusiwe, who was so stoic he did not even let out a shout of pain when he was killed with arrows, 
 and Ishi, a knowledgeable hunter who could harvest anything from a from a squirrel to a grizzly bear, any young boy would want to become an archer himself.  
 
 
-As a teenager, I introduced myself to archery by manually constructing the bows and arrows myself, and practiced shooting with my custom-made equipment.
-Crafting bows and arrows was a peaceful and relaxing experience. 
+Therefore I introduced myself to archery by manually constructing the bows and arrows myself, and practiced shooting with my custom-made equipment.
 
 &nbsp;
 <figure>
